@@ -1,0 +1,5 @@
+apiVersion: v2
+name: fastify-app
+description: A Helm chart for Fastify application
+version: 0.1.0
+appVersion: "1.0.0"
