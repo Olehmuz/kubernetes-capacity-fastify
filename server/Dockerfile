@@ -14,7 +14,7 @@ RUN npm install --production
 COPY . .
 
 # Expose the application port
-EXPOSE 3005
+EXPOSE 8080
 
 # Start the server
 CMD ["node", "./src/server.js"]
